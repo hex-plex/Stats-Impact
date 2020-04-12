@@ -1,4 +1,4 @@
-<html><body><h1>Stats-Impact<h1>
+<html><body><h1>Stats-Impact</h1>
 <p>This is the solution that I presented in the competition Stats Impact
   for which I came at <b> First</b> place.</p>
 In the competetion I was given a dataset consisting
